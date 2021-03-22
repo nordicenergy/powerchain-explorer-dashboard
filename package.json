@@ -1,8 +1,8 @@
 {
-  "name": "harmony-website",
+  "name": "nordicenergy-website",
   "version": "1.0.0",
   "description": "Engrave everything on blockchain, eternally.",
-  "author": "liuzhenglaichn@gmail.com",
+  "author": "info@nordicenergy.io",
   "private": true,
   "scripts": {
     "dev": "DevMode=true npx vue-cli-service serve",
