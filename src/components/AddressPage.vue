@@ -27,7 +27,7 @@
 .avatar {
   border-radius: 100%;
   display: table-cell;
-  background-color: #47e0cd;
+  background-color: #e6ac00;
   color: white;
   height: 25px;
   width: 25px;
@@ -276,7 +276,7 @@
                       <Button
                           v-if="!tokensFetching"
                           @click="onUserActionFetchHRCTokens"
-                          style="outline:0;border-radius:4px;cursor: pointer; border: none;background: #00aee9;padding:10px;color:white;">Fetch Tokens</Button>
+                          style="outline:0;border-radius:4px;cursor: pointer; border: none;background: #cc9900;padding:10px;color:white;">Fetch Tokens</Button>
                       <v-select
                           v-if="tokensFetching"
                           :disabled="
@@ -679,14 +679,14 @@ export default {
         return {};
       }
       const palette = [
-        "#00ffff",
-        "#24dbff",
-        "#49b6ff",
-        "#6d92ff",
-        "#926dff",
-        "#b649ff",
-        "#db24ff",
-        "#ff00ff"
+        "#ffc61a",
+        "#ffbf00",
+        "#e6ac00",
+        "#cc9900",
+        "#b38600",
+        "#997300",
+        "#806000",
+        "#664d00"
       ];
       const c = name.charCodeAt(0) % palette.length;
       const backgroundColor = palette[c];
