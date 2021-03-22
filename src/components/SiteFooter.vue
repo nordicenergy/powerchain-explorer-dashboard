@@ -42,7 +42,7 @@ footer {
         <font-awesome-icon :icon="['fas', 'user-friends']" />
       </a>
 
-      <a href="https://medium.com/nordicenergy" target="_blank">
+      <a href="https://nordic-energy.medium.com" target="_blank">
         <font-awesome-icon :icon="['fab', 'medium']" />
       </a>
 
