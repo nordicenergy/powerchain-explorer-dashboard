@@ -81,7 +81,7 @@ export default {
 
   .tabItem {
     cursor: pointer;
-    // color: rgba(85, 91, 104, 0.7);
+    // color: rgba(204, 153, 0);
     margin-right: 20px;
     font-size: 1.1em;
     font-weight: 500;
@@ -89,7 +89,7 @@ export default {
     &.active {
       position: relative;
       display: inline-block;
-      color: #1b295e;
+      color: #806000;
       // color: var(--color-table-link);
     }
   }
@@ -99,7 +99,7 @@ export default {
   border: none;
   padding: 0;
   cursor: pointer;
-  color: #1b295e;
+  color: #664b00;
   font-size: 1.1em;
   font-family: 'Nunito', Helvetica, Arial, sans-serif;
   font-weight: 500;
