@@ -195,7 +195,7 @@ export default {
         if (!res || !res.hash) {
           return
         }
-        console.log('Converted ETH tx hash to Harmony, searching...')
+        console.log('Converted ETH tx hash to PowerChain, Harmony, searching...')
 
         return this.search(res.hash, false)
       }
