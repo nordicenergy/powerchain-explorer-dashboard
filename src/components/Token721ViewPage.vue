@@ -196,7 +196,7 @@ export default {
   justify-content: flex-start;
 }
 .ticker {
-  color: rgb(146, 109, 255);
+  color: rgb(179, 134, 0);
 }
 .tokenview-page {
   header {
