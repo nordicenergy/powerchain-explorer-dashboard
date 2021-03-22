@@ -59,7 +59,7 @@
 
   .show-more-button {
     padding: 6px 25px;
-    border: 1px solid #008ddc50;
+    border: 1px solid #cc9900;
     border-radius: 5px;
     transition: all 0.3s;
 
@@ -67,7 +67,7 @@
     font-size: 0.9em;
 
     &:hover {
-      /*border: 1px solid #1b295e;*/
+      /*border: 1px solid #333333;*/
       /*color: #1b295e;*/
     }
   }
