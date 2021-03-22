@@ -10,6 +10,6 @@ export const BASE_HRC20URL =
 //export const BASE_HRC20URL ='https://raw.githubusercontent.com/nordicenergy/HRC20-logos/testnet';
 export const HRC20_HOLDERURL =
   'https://harmony-hrc-holder.firebaseapp.com/#/address'
-export const ONE_HOLDERURL = 'https://balance.nordicenergy.io'
+export const ONE_HOLDERURL = 'https://balance.harmony.one'
 
 export const SDK_NODE = process.env.VUE_APP_SDK_NODE
