@@ -30,7 +30,7 @@
                   {{ transaction.status | txStatus }}
                 </td>
                 <td v-if="isContract">
-                  <span v-if="txReceiptStatus === 1" style="color:#00c9a7">
+                  <span v-if="txReceiptStatus === 1" style="color:#cc9900">
                     Success
                   </span>
                   <span v-if="txReceiptStatus === 0" style="color: red"
