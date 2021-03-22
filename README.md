@@ -1,4 +1,4 @@
-# PowerChainn - Explorer Dashboard
+# PowerChain - Explorer Dashboard
 
 The dashboard for Nordic Energy´s PowerChain blockchain of use cases.
 
