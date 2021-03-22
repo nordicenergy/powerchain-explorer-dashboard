@@ -1,6 +1,6 @@
-# harmony-dashboard
+# PowerChainn - Explorer Dashboard
 
-The dashboard for harmony blockchain displaying interesting metrics.
+The dashboard for Nordic Energy´s PowerChain blockchain of use cases.
 
 ## Build Setup
 
