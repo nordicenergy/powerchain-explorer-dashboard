@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/harmony-one/harmony-dashboard)
+
 # PowerChain - Explorer Dashboard
 
 The dashboard for Nordic Energy´s PowerChain blockchain of energy use cases.
