@@ -1,6 +1,6 @@
 # PowerChain - Explorer Dashboard
 
-The dashboard for Nordic Energy´s PowerChain blockchain of energy use cases.
+The dashboard for Nordic Energy´s PowerChain blockchain based of Harmony One. 
 
 ## Build Setup
 
