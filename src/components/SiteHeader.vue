@@ -14,7 +14,7 @@
     height: 7em;
     width: 10em;
     box-sizing: border-box;
-    background-image: url(../assets/harmony-logo-white.svg);
+    background-image: url(../assets/nordicenergy-logo-white.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 90%;
